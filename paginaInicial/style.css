@@ -1,0 +1,17 @@
+body {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    
+}
+h1 {
+    border: 3px solid;
+    border-color: white;
+    display: grid;
+    grid-column: auto;
+    grid-template-columns: auto;
+    display:flex ;
+    margin: auto;
+    text-align: center;
+    font-family: monospace;
+
+}
